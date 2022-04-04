@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! 🚀 I'm S.alper</h1>
-<div align="center"><img src="https://media.giphy.com/media/FsV53qG0wZE7cIkV8W/giphy.gif" width="280" height="230"  /> </div>
+<div align="center"><img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47ww2o8vwa7qi4zbhp7f064gkdyigqm5hys0chxux6&rid=giphy.gif&ct=g" width="350" height="230"  /> </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semihalperkeskin&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="semihalperkeskin" /></a> </p>
 <p>
