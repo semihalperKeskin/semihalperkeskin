@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/salperkeskin" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="semihalperkeskin" height="30" width="30" /></a>
 <a href="https://instagram.com/salperkeskin" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="semihalperkeskin" height="30" width="30" /></a>
-<a href="S A L P E R#0084" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
+
 
 <br>
 
