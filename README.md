@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! 🚀 I'm S.Alper</h1>
-<div align="center"><img src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" width="480" height="313"/>
+<div align="center"><img src="https://media.giphy.com/media/MC3Z7F2gphpMJ0E400/giphy.gif" width="480" height="313"/>
 </div>
 
 
